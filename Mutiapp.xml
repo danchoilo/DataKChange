@@ -1,0 +1,10 @@
+<Applications>
+    <App>
+        <Name>App1</Name>
+        <MainDll>MiChangerPlus</MainDll>
+    </App>
+    <App>
+        <Name>App2</Name>
+        <MainDll>AnotherApp</MainDll>
+    </App>
+</Applications>
