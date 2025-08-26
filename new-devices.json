@@ -1,0 +1,1608 @@
+[
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy K Zoom",
+        "model": "SM-C115L",
+        "carrier": "LG U+",
+        "name": "m2altelgt",
+        "hardware": "samsungexynos5260",
+        "board": "exynos5260",
+        "sdk": [
+            19
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy J7",
+        "model": "SM-J700K",
+        "carrier": "KT",
+        "name": "j75ltektt",
+        "hardware": "qualcommmsm8916",
+        "board": "msm8916",
+        "sdk": [
+            22
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Note7",
+        "model": "SM-N930K",
+        "carrier": "KT",
+        "name": "graceltektt",
+        "hardware": "samsungexynos8890",
+        "board": "exynos8890",
+        "sdk": [
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Note7",
+        "model": "SM-N930L",
+        "carrier": "LG U+ ",
+        "name": "graceltelgt",
+        "hardware": "samsungexynos8890",
+        "board": "exynos8890",
+        "sdk": [
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Note7",
+        "model": "SM-N930S",
+        "carrier": "SK Telecom ",
+        "name": "gracelteskt",
+        "hardware": "samsungexynos8890",
+        "board": "exynos8890",
+        "sdk": [
+            23
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG K9",
+        "model": "LM-X210K",
+        "carrier": "KT",
+        "name": "cv109",
+        "hardware": "qualcommmsm8909",
+        "board": "msm8909",
+        "sdk": [
+            25
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG K9",
+        "model": "LM-X210L",
+        "carrier": "LG U+",
+        "name": "cv109",
+        "hardware": "qualcommmsm8909",
+        "board": "msm8909",
+        "sdk": [
+            25
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG K9",
+        "model": "LM-X210S",
+        "carrier": "SK Telecom",
+        "name": "cv109",
+        "hardware": "qualcommmsm8909",
+        "board": "msm8909",
+        "sdk": [
+            25
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Grand2",
+        "model": "SM-G710K",
+        "carrier": "KT",
+        "name": "ms01ltektt",
+        "hardware": "qualcommmsm8926",
+        "board": "msm8926",
+        "sdk": [
+            18,
+            19
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Grand2",
+        "model": "SM-G710L",
+        "carrier": "LG U+",
+        "name": "ms01ltelgt",
+        "hardware": "qualcommmsm8926",
+        "board": "msm8926",
+        "sdk": [
+            18,
+            19
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Round",
+        "model": "SM-G910S",
+        "carrier": "SK Telecom",
+        "name": "flteskt",
+        "hardware": "qualcommmsm8974",
+        "board": "msm8974",
+        "sdk": [
+            18,
+            19
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Grand2",
+        "model": "SM-G710S",
+        "carrier": "SK Telecom",
+        "name": "ms01lteskt",
+        "hardware": "qualcommmsm8926",
+        "board": "msm8926",
+        "sdk": [
+            18,
+            19
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Note3",
+        "model": "SM-N900K",
+        "carrier": "KT",
+        "name": "hltektt",
+        "hardware": "qualcommmsm8974",
+        "board": "msm8974",
+        "sdk": [
+            18,
+            19,
+            21
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Note3",
+        "model": "SM-N900L",
+        "carrier": "LG U+",
+        "name": "hltelgt",
+        "hardware": "qualcommmsm8974",
+        "board": "msm8974",
+        "sdk": [
+            18,
+            19,
+            21
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Note3",
+        "model": "SM-N900S",
+        "carrier": "SK Telecom",
+        "name": "hlteskt",
+        "hardware": "qualcommmsm8974",
+        "board": "msm8974",
+        "sdk": [
+            18,
+            19,
+            21
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Alpha",
+        "model": "SM-G850S",
+        "carrier": "KT",
+        "name": "sltektt",
+        "hardware": "samsungexynos5430",
+        "board": "exynos5430",
+        "sdk": [
+            19,
+            21
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Alpha",
+        "model": "SM-G850L",
+        "carrier": "LG U+",
+        "name": "sltelgt",
+        "hardware": "samsungexynos5430",
+        "board": "exynos5430",
+        "sdk": [
+            19,
+            21
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Alpha",
+        "model": "SM-G850S",
+        "carrier": "SK Telecom",
+        "name": "slteskt",
+        "hardware": "samsungexynos5430",
+        "board": "exynos5430",
+        "sdk": [
+            19,
+            21
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Note Edge",
+        "model": "SM-N915K",
+        "carrier": "KT",
+        "name": "tbeltektt",
+        "hardware": "samsungexynos5433",
+        "board": "exynos5433",
+        "sdk": [
+            19,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Note4",
+        "model": "SM-N910K",
+        "carrier": "KT",
+        "name": "treltektt",
+        "hardware": "samsungexynos5433",
+        "board": "exynos5433",
+        "sdk": [
+            19,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Note Edge",
+        "model": "SM-N915L",
+        "carrier": "LG U+",
+        "name": "tbeltelgt",
+        "hardware": "samsungexynos5433",
+        "board": "exynos5433",
+        "sdk": [
+            19,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Note4",
+        "model": "SM-N910L",
+        "carrier": "LG U+",
+        "name": "treltelgt",
+        "hardware": "samsungexynos5433",
+        "board": "exynos5433",
+        "sdk": [
+            19,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Note Edge",
+        "model": "SM-N915S",
+        "carrier": "SK Telecom",
+        "name": "tbelteskt",
+        "hardware": "samsungexynos5433",
+        "board": "exynos5433",
+        "sdk": [
+            19,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Note4",
+        "model": "SM-N910S",
+        "carrier": "SK Telecom",
+        "name": "trelteskt",
+        "hardware": "samsungexynos5433",
+        "board": "exynos5433",
+        "sdk": [
+            19,
+            21,
+            22,
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S5",
+        "model": "SM-G900K",
+        "carrier": "KT",
+        "name": "lentisltektt",
+        "hardware": "qualcommapq8084",
+        "board": "apq8084",
+        "sdk": [
+            19,
+            21,
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A5",
+        "model": "SM-A500K",
+        "carrier": "KT",
+        "name": "a5ultektt",
+        "hardware": "qualcommmsm8916",
+        "board": "msm8916",
+        "sdk": [
+            19,
+            21,
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A7",
+        "model": "SM-A700K",
+        "carrier": "KT",
+        "name": "a7ltektt",
+        "hardware": "qualcommmsm8939",
+        "board": "msm8939",
+        "sdk": [
+            19,
+            21,
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S5",
+        "model": "SM-G900L",
+        "carrier": "LG U+",
+        "name": "lentisltelgt",
+        "hardware": "qualcommapq8084",
+        "board": "apq8084",
+        "sdk": [
+            19,
+            21,
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A5",
+        "model": "SM-A500L",
+        "carrier": "LG U+",
+        "name": "a5ultelgt",
+        "hardware": "qualcommmsm8916",
+        "board": "msm8916",
+        "sdk": [
+            19,
+            21,
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A7",
+        "model": "SM-A700L",
+        "carrier": "LG U+",
+        "name": "a7ltelgt",
+        "hardware": "qualcommmsm8939",
+        "board": "msm8939",
+        "sdk": [
+            19,
+            21,
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S5",
+        "model": "SM-G900S",
+        "carrier": "SK Telecom",
+        "name": "lentislteskt",
+        "hardware": "qualcommapq8084",
+        "board": "apq8084",
+        "sdk": [
+            19,
+            21,
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A5",
+        "model": "SM-A500S",
+        "carrier": "SK Telecom",
+        "name": "a5ulteskt",
+        "hardware": "qualcommmsm8916",
+        "board": "msm8916",
+        "sdk": [
+            19,
+            21,
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A7",
+        "model": "SM-A700S",
+        "carrier": "SK Telecom",
+        "name": "a7lteskt",
+        "hardware": "qualcommmsm8939",
+        "board": "msm8939",
+        "sdk": [
+            19,
+            21,
+            23
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S6 Edge",
+        "model": "SM-G925K",
+        "carrier": "KT",
+        "name": "zeroltektt",
+        "hardware": "samsungexynos7420",
+        "board": "exynos7420",
+        "sdk": [
+            21,
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S6",
+        "model": "SM-G920K",
+        "carrier": "KT",
+        "name": "zerofltektt",
+        "hardware": "samsungexynos7420",
+        "board": "exynos7420",
+        "sdk": [
+            21,
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S6 edge",
+        "model": "SM-G925L",
+        "carrier": "LG U+",
+        "name": "zeroltelgt",
+        "hardware": "samsungexynos7420",
+        "board": "exynos7420",
+        "sdk": [
+            21,
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S6",
+        "model": "SM-G920L",
+        "carrier": "LG U+",
+        "name": "zerofltelgt",
+        "hardware": "samsungexynos7420",
+        "board": "exynos7420",
+        "sdk": [
+            21,
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S6 Edge",
+        "model": "SM-G925S",
+        "carrier": "SK Telecom",
+        "name": "zerolteskt",
+        "hardware": "samsungexynos7420",
+        "board": "exynos7420",
+        "sdk": [
+            21,
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S6",
+        "model": "SM-G920S",
+        "carrier": "SK Telecom",
+        "name": "zeroflteskt",
+        "hardware": "samsungexynos7420",
+        "board": "exynos7420",
+        "sdk": [
+            21,
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Note5",
+        "model": "SM-N920K",
+        "carrier": "KT",
+        "name": "nobleltektt",
+        "hardware": "samsungexynos7420",
+        "board": "exynos7420",
+        "sdk": [
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S6 Edge+",
+        "model": "SM-G928K",
+        "carrier": "KT",
+        "name": "zenltektt",
+        "hardware": "samsungexynos7420",
+        "board": "exynos7420",
+        "sdk": [
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A7(2016)",
+        "model": "SM-A710K",
+        "carrier": "KT",
+        "name": "a7xeltektt",
+        "hardware": "samsungexynos7580",
+        "board": "exynos7580",
+        "sdk": [
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A5(2016)",
+        "model": "SM-A510K",
+        "carrier": "KT",
+        "name": "a5xeltektt",
+        "hardware": "samsungexynos7580",
+        "board": "exynos7580",
+        "sdk": [
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Note5",
+        "model": "SM-N920L",
+        "carrier": "LG U+",
+        "name": "nobleltelgt",
+        "hardware": "samsungexynos7420",
+        "board": "exynos7420",
+        "sdk": [
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S6 Edge+",
+        "model": "SM-G928L",
+        "carrier": "LG U+",
+        "name": "zenltelgt",
+        "hardware": "samsungexynos7420",
+        "board": "exynos7420",
+        "sdk": [
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A7(2016)",
+        "model": "SM-A710L",
+        "carrier": "LG U+",
+        "name": "a7xeltelgt",
+        "hardware": "samsungexynos7580",
+        "board": "exynos7580",
+        "sdk": [
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A5(2016)",
+        "model": "SM-A510L",
+        "carrier": "LG U+",
+        "name": "a5xeltelgt",
+        "hardware": "samsungexynos7580",
+        "board": "exynos7580",
+        "sdk": [
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A5(2016)",
+        "model": "SM-A510S",
+        "carrier": "SK Telecom",
+        "name": "a5xelteskt",
+        "hardware": "samsungexynos7580",
+        "board": "exynos7580",
+        "sdk": [
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A8",
+        "model": "SM-A800S",
+        "carrier": "SK Telecom",
+        "name": "a8elteskt",
+        "hardware": "samsungexynos5430",
+        "board": "exynos5430",
+        "sdk": [
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Note5",
+        "model": "SM-N920S",
+        "carrier": "SK Telecom",
+        "name": "noblelteskt",
+        "hardware": "samsungexynos7420",
+        "board": "exynos7420",
+        "sdk": [
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S6 Edge+",
+        "model": "SM-G928S",
+        "carrier": "SK Telecom",
+        "name": "zenlteskt",
+        "hardware": "samsungexynos7420",
+        "board": "exynos7420",
+        "sdk": [
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A7(2016)",
+        "model": "SM-A710S",
+        "carrier": "SK Telecom",
+        "name": "a7xelteskt",
+        "hardware": "samsungexynos7580",
+        "board": "exynos7580",
+        "sdk": [
+            22,
+            23,
+            24
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A5(2017)",
+        "model": "SM-A520K",
+        "carrier": "KT",
+        "name": "a5y17ltektt",
+        "hardware": "samsungexynos7880",
+        "board": "exynos7880",
+        "sdk": [
+            23,
+            24,
+            26
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S7 Edge",
+        "model": "SM-G935K",
+        "carrier": "KT",
+        "name": "hero2ltektt",
+        "hardware": "samsungexynos8890",
+        "board": "exynos8890",
+        "sdk": [
+            23,
+            24,
+            26
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S7 ",
+        "model": "SM-G930K",
+        "carrier": "KT",
+        "name": "heroltektt",
+        "hardware": "samsungexynos8890",
+        "board": "exynos8890",
+        "sdk": [
+            23,
+            24,
+            26
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A5(2017)",
+        "model": "SM-A520L",
+        "carrier": "LG U+",
+        "name": "a5y17ltelgt",
+        "hardware": "samsungexynos7880",
+        "board": "exynos7880",
+        "sdk": [
+            23,
+            24,
+            26
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S7 edge",
+        "model": "SM-G935L",
+        "carrier": "LG U+",
+        "name": "hero2ltelgt",
+        "hardware": "samsungexynos8890",
+        "board": "exynos8890",
+        "sdk": [
+            23,
+            24,
+            26
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S7 ",
+        "model": "SM-G930L",
+        "carrier": "LG U+",
+        "name": "heroltelgt",
+        "hardware": "samsungexynos8890",
+        "board": "exynos8890",
+        "sdk": [
+            23,
+            24,
+            26
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A5(2017)",
+        "model": "SM-A520S",
+        "carrier": "SK Telecom",
+        "name": "a5y17lteskt",
+        "hardware": "samsungexynos7880",
+        "board": "exynos7880",
+        "sdk": [
+            23,
+            24,
+            26
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A8(2016)",
+        "model": "SM-A810S",
+        "carrier": "SK Telecom",
+        "name": "a8xelteskt",
+        "hardware": "samsungexynos7420",
+        "board": "exynos7420",
+        "sdk": [
+            23,
+            24,
+            26
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S7 Edge",
+        "model": "SM-G935S",
+        "carrier": "SK Telecom",
+        "name": "hero2lteskt",
+        "hardware": "samsungexynos8890",
+        "board": "exynos8890",
+        "sdk": [
+            23,
+            24,
+            26
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy S7",
+        "model": "SM-G930S",
+        "carrier": "SK Telecom",
+        "name": "herolteskt",
+        "hardware": "samsungexynos8890",
+        "board": "exynos8890",
+        "sdk": [
+            23,
+            24,
+            26
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy On7(2016)",
+        "model": "SM-G610K",
+        "carrier": "KT",
+        "name": "on7xeltektt",
+        "hardware": "samsungexynos7870",
+        "board": "exynos7870",
+        "sdk": [
+            23,
+            24,
+            27
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy J7(2016)",
+        "model": "SM-J710K",
+        "carrier": "KT",
+        "name": "j7xeltektt",
+        "hardware": "samsungexynos7870",
+        "board": "exynos7870",
+        "sdk": [
+            23,
+            24,
+            27
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy On7(2016)",
+        "model": "SM-G610L",
+        "carrier": "LG U+",
+        "name": "on7xeltelgt",
+        "hardware": "samsungexynos7870",
+        "board": "exynos7870",
+        "sdk": [
+            23,
+            24,
+            27
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy On7(2016)",
+        "model": "SM-G610S",
+        "carrier": "SK Telecom",
+        "name": "on7xelteskt",
+        "hardware": "samsungexynos7870",
+        "board": "exynos7870",
+        "sdk": [
+            23,
+            24,
+            27
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy J5(2016)",
+        "model": "SM-J510K",
+        "carrier": "KT",
+        "name": "j5xnltektt",
+        "hardware": "qualcommmsm8916",
+        "board": "msm8916",
+        "sdk": [
+            23,
+            25
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy J5(2016)",
+        "model": "SM-J510L",
+        "carrier": "LG U+",
+        "name": "j5xnltelgt",
+        "hardware": "qualcommmsm8916",
+        "board": "msm8916",
+        "sdk": [
+            23,
+            25
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Wide",
+        "model": "SM-G600S",
+        "carrier": "SK Telecom",
+        "name": "on7nlteskt",
+        "hardware": "qualcommmsm8916",
+        "board": "msm8916",
+        "sdk": [
+            23,
+            25
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy J5(2016)",
+        "model": "SM-J510S",
+        "carrier": "SK Telecom",
+        "name": "j5xnlteskt",
+        "hardware": "qualcommmsm8916",
+        "board": "msm8916",
+        "sdk": [
+            23,
+            25
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "Q8",
+        "model": "LGM-X800K",
+        "carrier": "KT",
+        "name": "anna",
+        "hardware": "qualcommmsm8996",
+        "board": "msm8996",
+        "sdk": [
+            24,
+            26
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "Q8",
+        "model": "LGM-X800L",
+        "carrier": "LG U+",
+        "name": "anna",
+        "hardware": "qualcommmsm8996",
+        "board": "msm8996",
+        "sdk": [
+            24,
+            26
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "Q8",
+        "model": "LGM-X800S",
+        "carrier": "SK Telecom",
+        "name": "anna",
+        "hardware": "qualcommmsm8996",
+        "board": "msm8996",
+        "sdk": [
+            24,
+            26
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "V20",
+        "model": "LG-F800K",
+        "carrier": "KT",
+        "name": "elsa",
+        "hardware": "qualcommmsm8996",
+        "board": "msm8996",
+        "sdk": [
+            24,
+            26,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG G6",
+        "model": "LGM-G600K",
+        "carrier": "KT",
+        "name": "lucye",
+        "hardware": "qualcommmsm8996",
+        "board": "msm8996",
+        "sdk": [
+            24,
+            26,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "V20",
+        "model": "LG-F800L",
+        "carrier": "LG U+",
+        "name": "elsa",
+        "hardware": "qualcommmsm8996",
+        "board": "msm8996",
+        "sdk": [
+            24,
+            26,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG G6",
+        "model": "LGM-G600L",
+        "carrier": "LG U+",
+        "name": "lucye",
+        "hardware": "qualcommmsm8996",
+        "board": "msm8996",
+        "sdk": [
+            24,
+            26,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "V20",
+        "model": "LG-F800S",
+        "carrier": "SK Telecom",
+        "name": "elsa",
+        "hardware": "qualcommmsm8996",
+        "board": "msm8996",
+        "sdk": [
+            24,
+            26,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG G6",
+        "model": "LGM-G600S",
+        "carrier": "SK Telecom",
+        "name": "lucye",
+        "hardware": "qualcommmsm8996",
+        "board": "msm8996",
+        "sdk": [
+            24,
+            26,
+            28
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A7(2017)",
+        "model": "SM-A720S",
+        "carrier": "SK Telecom",
+        "name": "a7y17lteskt",
+        "hardware": "samsungexynos7880",
+        "board": "exynos7880",
+        "sdk": [
+            24,
+            26,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG K10 (2017)",
+        "model": "LGM-K121K",
+        "carrier": "KT",
+        "name": "mlv5n",
+        "hardware": "mediatekmt6755",
+        "board": "mt6755",
+        "sdk": [
+            24,
+            27
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG K10 (2017)",
+        "model": "LGM-K121K",
+        "carrier": "KT",
+        "name": "mlv5",
+        "hardware": "mediatekmt6755",
+        "board": "mt6755",
+        "sdk": [
+            24,
+            27
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG K10 (2017)",
+        "model": "LGM-K121L",
+        "carrier": "LG U+",
+        "name": "mlv5n",
+        "hardware": "mediatekmt6755",
+        "board": "mt6755",
+        "sdk": [
+            24,
+            27
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG K10 (2017)",
+        "model": "LGM-K121L",
+        "carrier": "LG U+",
+        "name": "mlv5",
+        "hardware": "mediatekmt6755",
+        "board": "mt6755",
+        "sdk": [
+            24,
+            27
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG K10 (2017)",
+        "model": "LGM-K121S",
+        "carrier": "SK Telecom",
+        "name": "mlv5n",
+        "hardware": "mediatekmt6755",
+        "board": "mt6755",
+        "sdk": [
+            24,
+            27
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG K10 (2017)",
+        "model": "LGM-K121S",
+        "carrier": "SK Telecom",
+        "name": "mlv5",
+        "hardware": "mediatekmt6755",
+        "board": "mt6755",
+        "sdk": [
+            24,
+            27
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy J7(2017)",
+        "model": "SM-J730K",
+        "carrier": "KT",
+        "name": "j7y17ltektt",
+        "hardware": "samsungexynos7870",
+        "board": "exynos7870",
+        "sdk": [
+            24,
+            27,
+            28
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Wide2",
+        "model": "SM-J727S",
+        "carrier": "SK Telecom",
+        "name": "j7popelteskt",
+        "hardware": "samsungexynos7870",
+        "board": "exynos7870",
+        "sdk": [
+            24,
+            27,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q6",
+        "model": "LGM-X600K",
+        "carrier": "KT",
+        "name": "mhn",
+        "hardware": "qualcommmsm8940",
+        "board": "msm8940",
+        "sdk": [
+            25,
+            27
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q6",
+        "model": "LGM-X600K",
+        "carrier": "KT",
+        "name": "mh",
+        "hardware": "qualcommmsm8940",
+        "board": "msm8940",
+        "sdk": [
+            25,
+            27
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q6",
+        "model": "LGM-X600L",
+        "carrier": "LG U+",
+        "name": "mhn",
+        "hardware": "qualcommmsm8940",
+        "board": "msm8940",
+        "sdk": [
+            25,
+            27
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q6",
+        "model": "LGM-X600L",
+        "carrier": "LG U+",
+        "name": "mh",
+        "hardware": "qualcommmsm8940",
+        "board": "msm8940",
+        "sdk": [
+            25,
+            27
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q6",
+        "model": "LGM-X600S",
+        "carrier": "SK Telecom",
+        "name": "mhn",
+        "hardware": "qualcommmsm8940",
+        "board": "msm8940",
+        "sdk": [
+            25,
+            27
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q6",
+        "model": "LGM-X600S",
+        "carrier": "SK Telecom",
+        "name": "mh",
+        "hardware": "qualcommmsm8940",
+        "board": "msm8940",
+        "sdk": [
+            25,
+            27
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy On7 Prime",
+        "model": "SM-G611K",
+        "carrier": "KT",
+        "name": "on7xrefltektt",
+        "hardware": "samsungexynos7870",
+        "board": "exynos7870",
+        "sdk": [
+            25,
+            27,
+            28
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy On7 Prime",
+        "model": "SM-G611L",
+        "carrier": "LG U+",
+        "name": "on7xrefltelgt",
+        "hardware": "samsungexynos7870",
+        "board": "exynos7870",
+        "sdk": [
+            25,
+            27,
+            28
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy On7 Prime",
+        "model": "SM-G611S",
+        "carrier": "SK Telecom",
+        "name": "on7xreflteskt",
+        "hardware": "samsungexynos7870",
+        "board": "exynos7870",
+        "sdk": [
+            25,
+            27,
+            28
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Wide3",
+        "model": "SM-J737S",
+        "carrier": "SK Telecom",
+        "name": "j7toplteskt",
+        "hardware": "samsungexynos7870",
+        "board": "exynos7870",
+        "sdk": [
+            26,
+            28
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy Jean",
+        "model": "SM-A605K",
+        "carrier": "KT",
+        "name": "a6pltektt",
+        "hardware": "qualcommsdm450",
+        "board": "sdm450",
+        "sdk": [
+            26,
+            28,
+            29
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A6+",
+        "model": "SM-A605K",
+        "carrier": "KT",
+        "name": "a6plte",
+        "hardware": "qualcommsdm450",
+        "board": "sdm450",
+        "sdk": [
+            26,
+            28,
+            29
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A7 (2018)",
+        "model": "SM-A750NK",
+        "carrier": "KT",
+        "name": "a7y18lteks",
+        "hardware": "samsungexynos7885",
+        "board": "exynos7885",
+        "sdk": [
+            26,
+            28,
+            29
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy J6",
+        "model": "SM-J600L",
+        "carrier": "LG U+",
+        "name": "j6ltelgt",
+        "hardware": "samsungexynos7870",
+        "board": "exynos7870",
+        "sdk": [
+            26,
+            28,
+            29
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q7+",
+        "model": "LM-Q725K",
+        "carrier": "KT",
+        "name": "cv5a",
+        "hardware": "qualcommsdm450",
+        "board": "sdm450",
+        "sdk": [
+            27,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q7+",
+        "model": "LM-Q725K",
+        "carrier": "KT",
+        "name": "cv5an",
+        "hardware": "qualcommsdm450",
+        "board": "sdm450",
+        "sdk": [
+            27,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q7+",
+        "model": "LM-Q725L",
+        "carrier": "LG U+",
+        "name": "cv5a",
+        "hardware": "qualcommsdm450",
+        "board": "sdm450",
+        "sdk": [
+            27,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q7+",
+        "model": "LM-Q725L",
+        "carrier": "LG U+",
+        "name": "cv5an",
+        "hardware": "qualcommsdm450",
+        "board": "sdm450",
+        "sdk": [
+            27,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q7",
+        "model": "LM-Q720L",
+        "carrier": "LG U+",
+        "name": "mcv5a",
+        "hardware": "mediatekmt6750",
+        "board": "mt6750",
+        "sdk": [
+            27,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q9",
+        "model": "LM-Q927L",
+        "carrier": "LG U+",
+        "name": "falcon",
+        "hardware": "qualcommmsm8996pro",
+        "board": "msm8996pro",
+        "sdk": [
+            27,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q7+",
+        "model": "LM-Q725S",
+        "carrier": "SK Telecom",
+        "name": "cv5a",
+        "hardware": "qualcommsdm450",
+        "board": "sdm450",
+        "sdk": [
+            27,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q7+",
+        "model": "LM-Q725S",
+        "carrier": "SK Telecom",
+        "name": "cv5an",
+        "hardware": "qualcommsdm450",
+        "board": "sdm450",
+        "sdk": [
+            27,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q7",
+        "model": "LM-Q720S",
+        "carrier": "SK Telecom",
+        "name": "mcv5a",
+        "hardware": "mediatekmt6750",
+        "board": "mt6750",
+        "sdk": [
+            27,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG Q7",
+        "model": "LM-Q720K",
+        "carrier": "SK Telecom",
+        "name": "mcv5a",
+        "hardware": "mediatekmt6750",
+        "board": "mt6750",
+        "sdk": [
+            27,
+            28
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG G7 One",
+        "model": "LM-Q927L",
+        "carrier": "LG U+",
+        "name": "phoenix_sprout",
+        "hardware": "qualcommmsm8998",
+        "board": "msm8998",
+        "sdk": [
+            27,
+            28,
+            29
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "LG G8 ThinQ",
+        "model": "LM-G820NK",
+        "carrier": "KT",
+        "name": "alphaamz",
+        "hardware": "qualcommsdm855",
+        "board": "sdm855",
+        "sdk": [
+            28,
+            29
+        ]
+    },
+    {
+        "manufacturer": "LGE",
+        "model_name": "V50 ThinQ",
+        "model": "LM-V500NK",
+        "carrier": "SK Telecom",
+        "name": "flashlm",
+        "hardware": "qualcommsm8150",
+        "board": "sm8150",
+        "sdk": [
+            28,
+            29
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A20e",
+        "model": "SM-A202K",
+        "carrier": "KT",
+        "name": "a20e",
+        "hardware": "samsungexynos7884B",
+        "board": "exynos7884B",
+        "sdk": [
+            28,
+            29
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A20",
+        "model": "SM-A205S",
+        "carrier": "SK Telecom",
+        "name": "a20p",
+        "hardware": "samsungexynos7904",
+        "board": "exynos7904",
+        "sdk": [
+            28,
+            29
+        ]
+    },
+    {
+        "manufacturer": "samsung",
+        "model_name": "Galaxy A40",
+        "model": "SM-A405S",
+        "carrier": "SK Telecom",
+        "name": "a40",
+        "hardware": "samsungexynos7904",
+        "board": "exynos7904",
+        "sdk": [
+            28,
+            29
+        ]
+    }
+]

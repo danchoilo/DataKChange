@@ -1,0 +1,91 @@
+[{
+    "country_code": "82",
+    "carrier_attribute": {
+      "mnc": "06",
+      "mcc": "450"
+    },
+    "country_name": "Korea S, Republic of",
+    "carrier_name": "LG U+",
+    "country_iso": "kr"
+  },
+  {
+    "country_code": "82",
+    "carrier_attribute": {
+      "mnc": "05",
+      "mcc": "450"
+    },
+    "country_name": "Korea S, Republic of",
+    "carrier_name": "SK Telecom",
+    "country_iso": "kr"
+  },
+  {
+    "country_code": "82",
+    "carrier_attribute": {
+      "mnc": "02",
+      "mcc": "450"
+    },
+    "country_name": "Korea S, Republic of",
+    "carrier_name": "KT",
+    "country_iso": "vn"
+  },
+  {
+    "country_code": "82",
+    "carrier_attribute": {
+      "mnc": "02",
+      "mcc": "450"
+    },
+    "country_name": "Korea S, Republic of",
+    "carrier_name": "KT",
+    "country_iso": "de"
+  },
+  {
+    "country_code": "82",
+    "carrier_attribute": {
+      "mnc": "02",
+      "mcc": "450"
+    },
+    "country_name": "Korea S, Republic of",
+    "carrier_name": "KT",
+    "country_iso": "tw"
+  },
+  {
+    "country_code": "82",
+    "carrier_attribute": {
+      "mnc": "02",
+      "mcc": "450"
+    },
+    "country_name": "Korea S, Republic of",
+    "carrier_name": "KT",
+    "country_iso": "ca"
+  },
+  {
+    "country_code": "82",
+    "carrier_attribute": {
+      "mnc": "02",
+      "mcc": "450"
+    },
+    "country_name": "Korea S, Republic of",
+    "carrier_name": "KT",
+    "country_iso": "jp"
+  },
+  {
+    "country_code": "82",
+    "carrier_attribute": {
+      "mnc": "02",
+      "mcc": "450"
+    },
+    "country_name": "Korea S, Republic of",
+    "carrier_name": "KT",
+    "country_iso": "es"
+  },
+  {
+    "country_code": "82",
+    "carrier_attribute": {
+      "mnc": "02",
+      "mcc": "450"
+    },
+    "country_name": "Korea S, Republic of",
+    "carrier_name": "KT",
+    "country_iso": "cn"
+  }
+]

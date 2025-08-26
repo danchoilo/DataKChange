@@ -1,0 +1,4178 @@
+[
+  {
+    "code": "a6020",
+    "board": "msm8929",
+    "manufacturer": "lenovo",
+    "model": "A6020l37",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "a6020",
+    "board": "msm8929",
+    "manufacturer": "lenovo",
+    "model": "A6020l37",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "a6020",
+    "board": "msm8929",
+    "manufacturer": "lenovo",
+    "model": "A6020l37",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "a6020",
+    "board": "msm8929",
+    "manufacturer": "lenovo",
+    "model": "A6020l37",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "a6020",
+    "board": "msm8929",
+    "manufacturer": "lenovo",
+    "model": "A6020l37",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "amber",
+    "board": "sdm630",
+    "manufacturer": "yandex",
+    "model": "'Phone'",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "fp2",
+    "board": "msm8974ab-ab",
+    "manufacturer": "fairphone",
+    "model": "FP2",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "i01wd",
+    "board": "sm8150",
+    "manufacturer": "asus",
+    "model": "Zenfone 6 (ZS630KL)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "p024",
+    "board": "msm8916",
+    "manufacturer": "asus",
+    "model": "ZenPad 8.0 (Z380KL)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "rmx1851",
+    "board": "sdm710",
+    "manufacturer": "realme",
+    "model": "RMX1851",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "x00td",
+    "board": "sdm636",
+    "manufacturer": "asus",
+    "model": "Zenfone Max Pro M1",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "x01bd",
+    "board": "sdm660",
+    "manufacturer": "asus",
+    "model": "Zenfone Max Pro M2",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "ytx703f",
+    "board": "apq8076",
+    "manufacturer": "lenovo",
+    "model": "YTX703F",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "ytx703l",
+    "board": "msm8976",
+    "manufacturer": "lenovo",
+    "model": "YTX703X",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "ytx703l",
+    "board": "msm8976",
+    "manufacturer": "lenovo",
+    "model": "YTX703X",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "z008",
+    "board": "z3560",
+    "manufacturer": "asus",
+    "model": "Zenfone 2 (720p)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "z00a",
+    "board": "z3580/z3560",
+    "manufacturer": "asus",
+    "model": "Zenfone 2 (1080p)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "z00d",
+    "board": "z2560",
+    "manufacturer": "asus",
+    "model": "Zenfone 2 (ZE500CL)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "z00l",
+    "board": "msm8939",
+    "manufacturer": "asus",
+    "model": "ZE550KL",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "z00l",
+    "board": "msm8939",
+    "manufacturer": "asus",
+    "model": "ZE550KL",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "z00t",
+    "board": "msm8939",
+    "manufacturer": "asus",
+    "model": "Zenfone 2 Laser/Selfie (1080p)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "a3xelte",
+    "board": "exynos7578",
+    "manufacturer": "samsung",
+    "model": "SM-A310Y",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "a3xelte",
+    "board": "exynos7578",
+    "manufacturer": "samsung",
+    "model": "SM-A310Y",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "a3xelte",
+    "board": "exynos7578",
+    "manufacturer": "samsung",
+    "model": "SM-A310Y",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "a3xelte",
+    "board": "exynos7578",
+    "manufacturer": "samsung",
+    "model": "SM-A310Y",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "a5xelte",
+    "board": "exynos7580",
+    "manufacturer": "samsung",
+    "model": "SM-A5108",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "a5xelte",
+    "board": "exynos7580",
+    "manufacturer": "samsung",
+    "model": "SM-A5108",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "a5xelte",
+    "board": "exynos7580",
+    "manufacturer": "samsung",
+    "model": "SM-A5108",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "a5xelte",
+    "board": "exynos7580",
+    "manufacturer": "samsung",
+    "model": "SM-A5108",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "a5xelte",
+    "board": "exynos7580",
+    "manufacturer": "samsung",
+    "model": "SM-A5108",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "a5xelte",
+    "board": "exynos7580",
+    "manufacturer": "samsung",
+    "model": "SM-A5108",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "a5xelte",
+    "board": "exynos7580",
+    "manufacturer": "samsung",
+    "model": "SM-A5108",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "a5y17lte",
+    "board": "exynos7880",
+    "manufacturer": "samsung",
+    "model": "SM-A520W",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "a5y17lte",
+    "board": "exynos7880",
+    "manufacturer": "samsung",
+    "model": "SM-A520W",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "a5y17lte",
+    "board": "exynos7880",
+    "manufacturer": "samsung",
+    "model": "SM-A520W",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "a7y17lte",
+    "board": "exynos7880",
+    "manufacturer": "samsung",
+    "model": "SM-A720F/DS",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "a7y17lte",
+    "board": "exynos7880",
+    "manufacturer": "samsung",
+    "model": "SM-A720F/DS",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "addison",
+    "board": "msm8953",
+    "manufacturer": "motorola",
+    "model": "XT1635-02",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "albus",
+    "board": "msm8953-pro",
+    "manufacturer": "motorola",
+    "model": "XT1710-11",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "albus",
+    "board": "msm8953-pro",
+    "manufacturer": "motorola",
+    "model": "XT1710-11",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "albus",
+    "board": "msm8953-pro",
+    "manufacturer": "motorola",
+    "model": "XT1710-11",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "albus",
+    "board": "msm8953-pro",
+    "manufacturer": "motorola",
+    "model": "XT1710-11",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "albus",
+    "board": "msm8953-pro",
+    "manufacturer": "motorola",
+    "model": "XT1710-11",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "albus",
+    "board": "msm8953-pro",
+    "manufacturer": "motorola",
+    "model": "XT1710-11",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "albus",
+    "board": "msm8953-pro",
+    "manufacturer": "motorola",
+    "model": "XT1710-11",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "angler",
+    "board": "msm8994",
+    "manufacturer": "huawei",
+    "model": "Nexus 6P",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "armani",
+    "board": "msm8226",
+    "manufacturer": "xiaomi",
+    "model": "Redmi 1S",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "athene",
+    "board": "msm8952",
+    "manufacturer": "motorola",
+    "model": "XT1644",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "athene",
+    "board": "msm8952",
+    "manufacturer": "motorola",
+    "model": "XT1644",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "athene",
+    "board": "msm8952",
+    "manufacturer": "motorola",
+    "model": "XT1644",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "athene",
+    "board": "msm8952",
+    "manufacturer": "motorola",
+    "model": "XT1644",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "athene",
+    "board": "msm8952",
+    "manufacturer": "motorola",
+    "model": "XT1644",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "athene",
+    "board": "msm8952",
+    "manufacturer": "motorola",
+    "model": "XT1644",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "athene",
+    "board": "msm8952",
+    "manufacturer": "motorola",
+    "model": "XT1644",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "athene",
+    "board": "msm8952",
+    "manufacturer": "motorola",
+    "model": "XT1644",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "athene",
+    "board": "msm8952",
+    "manufacturer": "motorola",
+    "model": "XT1644",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "axon7",
+    "board": "msm8996",
+    "manufacturer": "zte",
+    "model": "'Axon 7'",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "bacon",
+    "board": "msm8974ac",
+    "manufacturer": "oneplus",
+    "model": "One",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "bardock",
+    "board": "msm8953",
+    "manufacturer": "bq",
+    "model": "Aquaris X",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "bardockpro",
+    "board": "msm8953",
+    "manufacturer": "bq",
+    "model": "Aquaris X Pro",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "berkeley",
+    "board": "HiKey970",
+    "manufacturer": "huawei",
+    "model": "BKL-TL20",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "berkeley",
+    "board": "HiKey970",
+    "manufacturer": "huawei",
+    "model": "BKL-TL20",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "berkeley",
+    "board": "HiKey970",
+    "manufacturer": "huawei",
+    "model": "BKL-TL20",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "berkeley",
+    "board": "HiKey970",
+    "manufacturer": "huawei",
+    "model": "BKL-TL20",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "berkeley",
+    "board": "HiKey970",
+    "manufacturer": "huawei",
+    "model": "BKL-TL20",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "berkeley",
+    "board": "HiKey970",
+    "manufacturer": "huawei",
+    "model": "BKL-TL20",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "beryllium",
+    "board": "sdm845",
+    "manufacturer": "xiaomi",
+    "model": "Poco F1",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "bullhead",
+    "board": "msm8992",
+    "manufacturer": "lge",
+    "model": "Nexus 5X",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "capricorn",
+    "board": "msm8996",
+    "manufacturer": "xiaomi",
+    "model": "Mi 5s",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "chagalllte",
+    "board": "exynos5420",
+    "manufacturer": "samsung",
+    "model": "SM-T805",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "chagallwifi",
+    "board": "exynos5420",
+    "manufacturer": "samsung",
+    "model": "SM-T800",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "chaozu",
+    "board": "msm8937",
+    "manufacturer": "bq",
+    "model": "Aquaris U",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "charlotte",
+    "board": "HiKey970",
+    "manufacturer": "huawei",
+    "model": "CLT-TL01",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "charlotte",
+    "board": "HiKey970",
+    "manufacturer": "huawei",
+    "model": "CLT-TL01",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "charlotte",
+    "board": "HiKey970",
+    "manufacturer": "huawei",
+    "model": "CLT-TL01",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "charlotte",
+    "board": "HiKey970",
+    "manufacturer": "huawei",
+    "model": "CLT-TL01",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "charlotte",
+    "board": "HiKey970",
+    "manufacturer": "huawei",
+    "model": "CLT-TL01",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "charlotte",
+    "board": "HiKey970",
+    "manufacturer": "huawei",
+    "model": "CLT-TL01",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "charlotte",
+    "board": "HiKey970",
+    "manufacturer": "huawei",
+    "model": "CLT-TL01",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "che10",
+    "board": "msm8916",
+    "manufacturer": "huawei",
+    "model": "Honor 4x (China Telecom)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "cheeseburger",
+    "board": "msm8998",
+    "manufacturer": "oneplus",
+    "model": "'5'",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "cherry",
+    "board": "msm8916",
+    "manufacturer": "huawei",
+    "model": "Honor 4/4X (Unified)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "cheryl",
+    "board": "msm8998",
+    "manufacturer": "razer",
+    "model": "'Phone'",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "chiron",
+    "board": "msm8998",
+    "manufacturer": "xiaomi",
+    "model": "'Mi MIX 2'",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "clark",
+    "board": "msm8992",
+    "manufacturer": "motorola",
+    "model": "XT1575",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "clark",
+    "board": "msm8992",
+    "manufacturer": "motorola",
+    "model": "XT1575",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "clark",
+    "board": "msm8992",
+    "manufacturer": "motorola",
+    "model": "XT1575",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "condor",
+    "board": "msm8212",
+    "manufacturer": "motorola",
+    "model": "XT1023",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "condor",
+    "board": "msm8212",
+    "manufacturer": "motorola",
+    "model": "XT1023",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "condor",
+    "board": "msm8212",
+    "manufacturer": "motorola",
+    "model": "XT1023",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "crackling",
+    "board": "msm8916",
+    "manufacturer": "wileyfox",
+    "model": "Swift",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "d2att",
+    "board": "msm8960",
+    "manufacturer": "samsung",
+    "model": "SGH-I747M",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "d2att",
+    "board": "msm8960",
+    "manufacturer": "samsung",
+    "model": "SGH-I747M",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "d2spr",
+    "board": "msm8960",
+    "manufacturer": "samsung",
+    "model": "SPH-L710",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "d2tmo",
+    "board": "msm8960",
+    "manufacturer": "samsung",
+    "model": "SGH-T999",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "d2vzw",
+    "board": "msm8960",
+    "manufacturer": "samsung",
+    "model": "SCH-I535",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "d800",
+    "board": "msm8974",
+    "manufacturer": "lge",
+    "model": "G2 (AT&T)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "d801",
+    "board": "msm8974",
+    "manufacturer": "lge",
+    "model": "G2 (T-Mobile)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "d802",
+    "board": "msm8974",
+    "manufacturer": "lge",
+    "model": "G2 (International)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "d803",
+    "board": "msm8974",
+    "manufacturer": "lge",
+    "model": "G2 (Canadian)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "d850",
+    "board": "msm8974ac",
+    "manufacturer": "lge",
+    "model": "G3 (AT&T)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "d851",
+    "board": "msm8974ac",
+    "manufacturer": "lge",
+    "model": "G3 (T-Mobile)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "d852",
+    "board": "msm8974ac",
+    "manufacturer": "lge",
+    "model": "G3 (Canada)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "d855",
+    "board": "msm8974ac",
+    "manufacturer": "lge",
+    "model": "G3 (International)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "deb",
+    "board": "msm8960t",
+    "manufacturer": "asus",
+    "model": "Nexus 7 (LTE, 2013 version)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "dipper",
+    "board": "sdm845",
+    "manufacturer": "xiaomi",
+    "model": "Mi 8",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "discovery",
+    "board": "sdm630",
+    "manufacturer": "sony",
+    "model": "H3223",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "discovery",
+    "board": "sdm630",
+    "manufacturer": "sony",
+    "model": "H3223",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "discovery",
+    "board": "sdm630",
+    "manufacturer": "sony",
+    "model": "H3223",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "discovery",
+    "board": "sdm630",
+    "manufacturer": "sony",
+    "model": "H3223",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "dogo",
+    "board": "apq8064",
+    "manufacturer": "sony",
+    "model": "Xperia ZR",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "dragon",
+    "board": "tegrax1",
+    "manufacturer": "google",
+    "model": "Pixel C",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "dumpling",
+    "board": "msm8998",
+    "manufacturer": "oneplus",
+    "model": "'5T'",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "enchilada",
+    "board": "sdm845",
+    "manufacturer": "oneplus",
+    "model": "'6'",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "espresso3g",
+    "board": "omap4430",
+    "manufacturer": "samsung",
+    "model": "P5100",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "espresso3g",
+    "board": "omap4430",
+    "manufacturer": "samsung",
+    "model": "P5100",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "espressowifi",
+    "board": "omap4430",
+    "manufacturer": "samsung",
+    "model": "P5113",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "espressowifi",
+    "board": "omap4430",
+    "manufacturer": "samsung",
+    "model": "P5113",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "espressowifi",
+    "board": "omap4430",
+    "manufacturer": "samsung",
+    "model": "P5113",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "espressowifi",
+    "board": "omap4430",
+    "manufacturer": "samsung",
+    "model": "P5113",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "ether",
+    "board": "msm8992",
+    "manufacturer": "nextbit",
+    "model": "Robin",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "f1f",
+    "board": "msm8939",
+    "manufacturer": "oppo",
+    "model": "F1f",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "f400",
+    "board": "msm8974ac",
+    "manufacturer": "lge",
+    "model": "G3 (Korea)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "fajita",
+    "board": "sdm845",
+    "manufacturer": "oneplus",
+    "model": "'6T'",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "falcon",
+    "board": "msm8226",
+    "manufacturer": "motorola",
+    "model": "XT1034",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "falcon",
+    "board": "msm8226",
+    "manufacturer": "motorola",
+    "model": "XT1034",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "falcon",
+    "board": "msm8226",
+    "manufacturer": "motorola",
+    "model": "XT1034",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "falcon",
+    "board": "msm8226",
+    "manufacturer": "motorola",
+    "model": "XT1034",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "find7",
+    "board": "msm8974ab/msm8974ac",
+    "manufacturer": "oppo",
+    "model": "Find 7s",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "find7",
+    "board": "msm8974ab/msm8974ac",
+    "manufacturer": "oppo",
+    "model": "Find 7s",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "flo",
+    "board": "msm8960t",
+    "manufacturer": "asus",
+    "model": "Nexus 7 (Wi-Fi, 2013 version)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "flounder",
+    "board": "tegrak1",
+    "manufacturer": "htc",
+    "model": "Nexus 9 (Wi-Fi)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "flounder_lte",
+    "board": "tegrak1",
+    "manufacturer": "htc",
+    "model": "Nexus 9 (LTE)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "foster",
+    "board": "tegra",
+    "manufacturer": "nvidia",
+    "model": "Shield Android TV",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "fugu",
+    "board": "x86_64",
+    "manufacturer": "asus",
+    "model": "Nexus Player",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "g2m",
+    "board": "msm8226",
+    "manufacturer": "lge",
+    "model": "'G2 Mini'",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "gemini",
+    "board": "msm8996",
+    "manufacturer": "xiaomi",
+    "model": "Mi 5",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "ghost",
+    "board": "msm8960dt",
+    "manufacturer": "motorola",
+    "model": "xt1060",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "ghost",
+    "board": "msm8960dt",
+    "manufacturer": "motorola",
+    "model": "xt1060",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "ghost",
+    "board": "msm8960dt",
+    "manufacturer": "motorola",
+    "model": "xt1060",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "ghost",
+    "board": "msm8960dt",
+    "manufacturer": "motorola",
+    "model": "xt1060",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "ghost",
+    "board": "msm8960dt",
+    "manufacturer": "motorola",
+    "model": "xt1060",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "ghost",
+    "board": "msm8960dt",
+    "manufacturer": "motorola",
+    "model": "xt1060",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "gohan",
+    "board": "msm8976",
+    "manufacturer": "bq",
+    "model": "Aquaris X5 Plus",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "griffin",
+    "board": "msm8996",
+    "manufacturer": "motorola",
+    "model": "XT1650-05",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "griffin",
+    "board": "msm8996",
+    "manufacturer": "motorola",
+    "model": "XT1650-05",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "gtelwifiue",
+    "board": "msm8916",
+    "manufacturer": "samsung",
+    "model": "SM-T560NU",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "gtesqltespr",
+    "board": "msm8916",
+    "manufacturer": "samsung",
+    "model": "SM-T377P",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "gts210ltexx",
+    "board": "exynos5433",
+    "manufacturer": "samsung",
+    "model": "SM-T815",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "gts210vewifi",
+    "board": "msm8976",
+    "manufacturer": "samsung",
+    "model": "SM-T813",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "gts210wifi",
+    "board": "exynos5433",
+    "manufacturer": "samsung",
+    "model": "SM-T810",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "gts28vewifi",
+    "board": "msm8976",
+    "manufacturer": "samsung",
+    "model": "SM-T713",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "guacamole",
+    "board": "sm8150",
+    "manufacturer": "oneplus",
+    "model": "'7 Pro'",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "h811",
+    "board": "msm8992",
+    "manufacturer": "lge",
+    "model": "G4 (T-Mobile)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "h815",
+    "board": "msm8992",
+    "manufacturer": "lge",
+    "model": "G4 (International)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "h830",
+    "board": "msm8996",
+    "manufacturer": "lge",
+    "model": "G5 (T-Mobile)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "h850",
+    "board": "msm8996",
+    "manufacturer": "lge",
+    "model": "G5 (International)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "h870",
+    "board": "msm8996",
+    "manufacturer": "lge",
+    "model": "G6 (EU Unlocked)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "h910",
+    "board": "msm8996",
+    "manufacturer": "lge",
+    "model": "V20 (AT&T)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "h918",
+    "board": "msm8996",
+    "manufacturer": "lge",
+    "model": "V20 (T-Mobile)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "ha3g",
+    "board": "exynos5420",
+    "manufacturer": "samsung",
+    "model": "SM-N9000",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "ham",
+    "board": "msm8974ac",
+    "manufacturer": "zuk",
+    "model": "Z1",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "hammerhead",
+    "board": "msm8974",
+    "manufacturer": "lge",
+    "model": "Nexus 5",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "harpia",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1607",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "harpia",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1607",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "harpia",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1607",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "harpia",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1607",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "harpia",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1607",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "harpia",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1607",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "hayabusa",
+    "board": "msm8260a",
+    "manufacturer": "sony",
+    "model": "Xperia TX",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "hero2lte",
+    "board": "exynos8890",
+    "manufacturer": "samsung",
+    "model": "SM-G935W8",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "hero2lte",
+    "board": "exynos8890",
+    "manufacturer": "samsung",
+    "model": "SM-G935W8",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "hero2lte",
+    "board": "exynos8890",
+    "manufacturer": "samsung",
+    "model": "SM-G935W8",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "hero2lte",
+    "board": "exynos8890",
+    "manufacturer": "samsung",
+    "model": "SM-G935W8",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "hero2lte",
+    "board": "exynos8890",
+    "manufacturer": "samsung",
+    "model": "SM-G935W8",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "hero2lte",
+    "board": "exynos8890",
+    "manufacturer": "samsung",
+    "model": "SM-G935W8",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "herolte",
+    "board": "exynos8890",
+    "manufacturer": "samsung",
+    "model": "SM-G930W8",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "herolte",
+    "board": "exynos8890",
+    "manufacturer": "samsung",
+    "model": "SM-G930W8",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "herolte",
+    "board": "exynos8890",
+    "manufacturer": "samsung",
+    "model": "SM-G930W8",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "herolte",
+    "board": "exynos8890",
+    "manufacturer": "samsung",
+    "model": "SM-G930W8",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "herolte",
+    "board": "exynos8890",
+    "manufacturer": "samsung",
+    "model": "SM-G930W8",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "herolte",
+    "board": "exynos8890",
+    "manufacturer": "samsung",
+    "model": "SM-G930W8",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "hiae",
+    "board": "msm8952",
+    "manufacturer": "htc",
+    "model": "2PQ9100",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "hiae",
+    "board": "msm8952",
+    "manufacturer": "htc",
+    "model": "2PQ9100",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "himaul",
+    "board": "msm8994",
+    "manufacturer": "htc",
+    "model": "One M9 (GSM)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "himawl",
+    "board": "msm8994",
+    "manufacturer": "htc",
+    "model": "One M9 (Verizon)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "hlte",
+    "board": "msm8974ab",
+    "manufacturer": "samsung",
+    "model": "SM-N900P",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "hlte",
+    "board": "msm8974ab",
+    "manufacturer": "samsung",
+    "model": "SM-N900P",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "hltechn",
+    "board": "msm8974ab",
+    "manufacturer": "samsung",
+    "model": "SM-N9008V",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "hltekor",
+    "board": "msm8974ab",
+    "manufacturer": "samsung",
+    "model": "SM-N900S",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "hltekor",
+    "board": "msm8974ab",
+    "manufacturer": "samsung",
+    "model": "SM-N900S",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "hltekor",
+    "board": "msm8974ab",
+    "manufacturer": "samsung",
+    "model": "SM-N900S",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "hltetmo",
+    "board": "msm8974ab",
+    "manufacturer": "samsung",
+    "model": "SM-N900W8",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "hltetmo",
+    "board": "msm8974ab",
+    "manufacturer": "samsung",
+    "model": "SM-N900W8",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "hltetmo",
+    "board": "msm8974ab",
+    "manufacturer": "samsung",
+    "model": "SM-N900W8",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "huashan",
+    "board": "msm8960t",
+    "manufacturer": "sony",
+    "model": "Xperia SP",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "hydrogen",
+    "board": "msm8956",
+    "manufacturer": "xiaomi",
+    "model": "Mi Max",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "i9100",
+    "board": "exynos4210",
+    "manufacturer": "samsung",
+    "model": "SC-02C",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "i9100",
+    "board": "exynos4210",
+    "manufacturer": "samsung",
+    "model": "SC-02C",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "i9100",
+    "board": "exynos4210",
+    "manufacturer": "samsung",
+    "model": "SC-02C",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "i9100",
+    "board": "exynos4210",
+    "manufacturer": "samsung",
+    "model": "SC-02C",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "i9100",
+    "board": "exynos4210",
+    "manufacturer": "samsung",
+    "model": "SC-02C",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "i9300",
+    "board": "exynos4412",
+    "manufacturer": "samsung",
+    "model": "GT-I9300T",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "i9300",
+    "board": "exynos4412",
+    "manufacturer": "samsung",
+    "model": "GT-I9300T",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "i9305",
+    "board": "exynos4412",
+    "manufacturer": "samsung",
+    "model": "GT-I9305N",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "i9305",
+    "board": "exynos4412",
+    "manufacturer": "samsung",
+    "model": "GT-I9305N",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "i9305",
+    "board": "exynos4412",
+    "manufacturer": "samsung",
+    "model": "GT-I9305N",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "ido",
+    "board": "msm8939v2",
+    "manufacturer": "xiaomi",
+    "model": "Redmi 3/Prime",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "ivy",
+    "board": "msm8994",
+    "manufacturer": "sony",
+    "model": "Xperia Z3+",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "jactivelte",
+    "board": "APQ8064T",
+    "manufacturer": "samsung",
+    "model": "GT-I9295",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "jag3gds",
+    "board": "msm8926",
+    "manufacturer": "lge",
+    "model": "G3 S",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "jagnm",
+    "board": "msm8926",
+    "manufacturer": "lge",
+    "model": "G3 Beat",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "jalebi",
+    "board": "msm8916",
+    "manufacturer": "yu",
+    "model": "Yunique",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "jasmine",
+    "board": "msm8952",
+    "manufacturer": "zte",
+    "model": "'AT&T Trek 2 HD'",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "jason",
+    "board": "sdm660",
+    "manufacturer": "xiaomi",
+    "model": "'Mi Note 3'",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "jflteatt",
+    "board": "APQ8064T",
+    "manufacturer": "samsung",
+    "model": "SGH-I337",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "jfltespr",
+    "board": "APQ8064T",
+    "manufacturer": "samsung",
+    "model": "SPH-L720",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "jfltespr",
+    "board": "APQ8064T",
+    "manufacturer": "samsung",
+    "model": "SPH-L720",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "jfltevzw",
+    "board": "APQ8064T",
+    "manufacturer": "samsung",
+    "model": "SCH-I545",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "jfltexx",
+    "board": "APQ8064T",
+    "manufacturer": "samsung",
+    "model": "SGH-M919",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "jfltexx",
+    "board": "APQ8064T",
+    "manufacturer": "samsung",
+    "model": "SGH-M919",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "jfltexx",
+    "board": "APQ8064T",
+    "manufacturer": "samsung",
+    "model": "SGH-M919",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "jfltexx",
+    "board": "APQ8064T",
+    "manufacturer": "samsung",
+    "model": "SGH-M919",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "jfvelte",
+    "board": "APQ8064T",
+    "manufacturer": "samsung",
+    "model": "GT-I9515L",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "jfvelte",
+    "board": "APQ8064T",
+    "manufacturer": "samsung",
+    "model": "GT-I9515L",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "k3gxx",
+    "board": "exynos5422",
+    "manufacturer": "samsung",
+    "model": "SM-G900H",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "karin",
+    "board": "msm8994",
+    "manufacturer": "sony",
+    "model": "Xperia Z4 Tablet LTE",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "karin_windy",
+    "board": "msm8994",
+    "manufacturer": "sony",
+    "model": "Xperia Z4 Tablet WiFi",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "kccat6",
+    "board": "apq8084",
+    "manufacturer": "samsung",
+    "model": "SM-G901F",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kenzo",
+    "board": "msm8956",
+    "manufacturer": "xiaomi",
+    "model": "Redmi Note 3",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "kingdom",
+    "board": "msm8974ac",
+    "manufacturer": "lenovo",
+    "model": "kingdomt (CN)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kingdom",
+    "board": "msm8974ac",
+    "manufacturer": "lenovo",
+    "model": "kingdomt (CN)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kipper",
+    "board": "msm8939",
+    "manufacturer": "wileyfox",
+    "model": "Storm",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "kiwi",
+    "board": "msm8939v2",
+    "manufacturer": "huawei",
+    "model": "KII-L21",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kiwi",
+    "board": "msm8939v2",
+    "manufacturer": "huawei",
+    "model": "KII-L21",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kiwi",
+    "board": "msm8939v2",
+    "manufacturer": "huawei",
+    "model": "KII-L21",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kiwi",
+    "board": "msm8939v2",
+    "manufacturer": "huawei",
+    "model": "KII-L21",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kiwi",
+    "board": "msm8939v2",
+    "manufacturer": "huawei",
+    "model": "KII-L21",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kiwi",
+    "board": "msm8939v2",
+    "manufacturer": "huawei",
+    "model": "KII-L21",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kiwi",
+    "board": "msm8939v2",
+    "manufacturer": "huawei",
+    "model": "KII-L21",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kiwi",
+    "board": "msm8939v2",
+    "manufacturer": "huawei",
+    "model": "KII-L21",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kiwi",
+    "board": "msm8939v2",
+    "manufacturer": "huawei",
+    "model": "KII-L21",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kiwi",
+    "board": "msm8939v2",
+    "manufacturer": "huawei",
+    "model": "KII-L21",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kiwi",
+    "board": "msm8939v2",
+    "manufacturer": "huawei",
+    "model": "KII-L21",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kiwi",
+    "board": "msm8939v2",
+    "manufacturer": "huawei",
+    "model": "KII-L21",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kiwi",
+    "board": "msm8939v2",
+    "manufacturer": "huawei",
+    "model": "KII-L21",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "klimtwifi",
+    "board": "exynos5420",
+    "manufacturer": "samsung",
+    "model": "SM-T700",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "klte",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-S902L",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "klte",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-S902L",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "klte",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-S902L",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "klte",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-S902L",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "klte",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-S902L",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "klte",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-S902L",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "klte",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-S902L",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "klte",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-S902L",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "klte",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-S902L",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "klteactivexx",
+    "board": "msm8974pro",
+    "manufacturer": "samsung",
+    "model": "SM-G870F",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "kltechn",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-G9008V",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kltechn",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-G9008V",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kltechnduo",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-G9009W",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "kltechnduo",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-G9009W",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "kltechnduo",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-G9009W",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "klteduos",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-G900MD",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "klteduos",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-G900MD",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kltedv",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-G900P",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "kltedv",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-G900P",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "kltekdi",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SCL23",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "kltekor",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-G900S",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "kltekor",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-G900S",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "kltekor",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-G900S",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "kltesprsports",
+    "board": "msm8974ac",
+    "manufacturer": "samsung",
+    "model": "SM-G860P",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "ks01lte",
+    "board": "msm8974",
+    "manufacturer": "samsung",
+    "model": "GT-I9506",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "kuntao",
+    "board": "msm8953",
+    "manufacturer": "lenovo",
+    "model": "P2a42",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "land",
+    "board": "msm8937",
+    "manufacturer": "xiaomi",
+    "model": "Redmi 3S/3X",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "lentislte",
+    "board": "apq8084",
+    "manufacturer": "samsung",
+    "model": "SM-G906L",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "lentislte",
+    "board": "apq8084",
+    "manufacturer": "samsung",
+    "model": "SM-G906L",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "lentislte",
+    "board": "apq8084",
+    "manufacturer": "samsung",
+    "model": "SM-G906L",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "lettuce",
+    "board": "msm8916",
+    "manufacturer": "yu",
+    "model": "Yuphoria",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "libra",
+    "board": "msm8992",
+    "manufacturer": "xiaomi",
+    "model": "Mi 4c",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "lithium",
+    "board": "msm8996",
+    "manufacturer": "xiaomi",
+    "model": "Mi MIX",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "ls990",
+    "board": "msm8974ac",
+    "manufacturer": "lge",
+    "model": "G3 (Sprint)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "ls997",
+    "board": "msm8996",
+    "manufacturer": "lge",
+    "model": "V20 (Sprint)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "lt02ltespr",
+    "board": "msm8930ab",
+    "manufacturer": "samsung",
+    "model": "SM-T217S",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "lt03lte",
+    "board": "msm8974",
+    "manufacturer": "samsung",
+    "model": "Galaxy Note 10.1 2014 (LTE)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "lux",
+    "board": "msm8939",
+    "manufacturer": "motorola",
+    "model": "XT1563",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "lux",
+    "board": "msm8939",
+    "manufacturer": "motorola",
+    "model": "XT1563",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "m216",
+    "board": "msm8916",
+    "manufacturer": "lge",
+    "model": "K420DS",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "m216",
+    "board": "msm8916",
+    "manufacturer": "lge",
+    "model": "K420DS",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "m7",
+    "board": "apq8064t",
+    "manufacturer": "htc",
+    "model": "One (GSM)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "m7vzw",
+    "board": "apq8064t",
+    "manufacturer": "htc",
+    "model": "One (Verizon)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "m8",
+    "board": "msm8974ab",
+    "manufacturer": "htc",
+    "model": "One (M8)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "m8d",
+    "board": "msm8974ab",
+    "manufacturer": "htc",
+    "model": "One (M8) Dual SIM",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "maguro",
+    "board": "omap4460",
+    "manufacturer": "samsung",
+    "model": "Galaxy Nexus GSM",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "mako",
+    "board": "apq8064",
+    "manufacturer": "lge",
+    "model": "Nexus 4",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "manta",
+    "board": "exynos5",
+    "manufacturer": "samsung",
+    "model": "Nexus 10",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "marlin",
+    "board": "msm8996",
+    "manufacturer": "google",
+    "model": "Pixel XL",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "maserati",
+    "board": "omap4430",
+    "manufacturer": "motorola",
+    "model": "XT894",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "mata",
+    "board": "msm8998",
+    "manufacturer": "essential",
+    "model": "'Essential PH-1'",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "merlin",
+    "board": "msm8939",
+    "manufacturer": "motorola",
+    "model": "XT1557",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "merlin",
+    "board": "msm8939",
+    "manufacturer": "motorola",
+    "model": "XT1557",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "mido",
+    "board": "msm8953",
+    "manufacturer": "xiaomi",
+    "model": "Redmi Note 4",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "mint",
+    "board": "msm8260a",
+    "manufacturer": "sony",
+    "model": "Xperia T",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "mondrianwifi",
+    "board": "msm8974",
+    "manufacturer": "samsung",
+    "model": "Galaxy Tab Pro 8.4",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "mt2",
+    "board": "msm8928",
+    "manufacturer": "huawei",
+    "model": "Ascend Mate 2 4G",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "n1awifi",
+    "board": "exynos5420",
+    "manufacturer": "samsung",
+    "model": "SM-P600",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "n2awifi",
+    "board": "exynos5420",
+    "manufacturer": "samsung",
+    "model": "SM-T520",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "n3",
+    "board": "msm8974ac",
+    "manufacturer": "oppo",
+    "model": "N3",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "n5100",
+    "board": "exynos4412",
+    "manufacturer": "samsung",
+    "model": "GT-N5100",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "n5110",
+    "board": "exynos4412",
+    "manufacturer": "samsung",
+    "model": "",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "n5120",
+    "board": "exynos4412",
+    "manufacturer": "samsung",
+    "model": "",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "nash",
+    "board": "msm8998",
+    "manufacturer": "motorola",
+    "model": "XT1789-07",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "nash",
+    "board": "msm8998",
+    "manufacturer": "motorola",
+    "model": "XT1789-07",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "nash",
+    "board": "msm8998",
+    "manufacturer": "motorola",
+    "model": "XT1789-07",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "nash",
+    "board": "msm8998",
+    "manufacturer": "motorola",
+    "model": "XT1789-07",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "nash",
+    "board": "msm8998",
+    "manufacturer": "motorola",
+    "model": "XT1789-07",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "nash",
+    "board": "msm8998",
+    "manufacturer": "motorola",
+    "model": "XT1789-07",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "natrium",
+    "board": "msm8996",
+    "manufacturer": "xiaomi",
+    "model": "Mi 5s Plus",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "nicki",
+    "board": "msm8227",
+    "manufacturer": "sony",
+    "model": "Xperia M",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "nx512j",
+    "board": "msm8939",
+    "manufacturer": "nubia",
+    "model": "Z9 Max",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "nx563j",
+    "board": "msm8998",
+    "manufacturer": "nubia",
+    "model": "'Z17'",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "odin",
+    "board": "apq8064",
+    "manufacturer": "sony",
+    "model": "Xperia ZL",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "oneplus2",
+    "board": "msm8994",
+    "manufacturer": "oneplus",
+    "model": "'2'",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "onyx",
+    "board": "msm8974ac",
+    "manufacturer": "oneplus",
+    "model": "X",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "osprey",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1550",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "osprey",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1550",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "osprey",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1550",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "osprey",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1550",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "osprey",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1550",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "osprey",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1550",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "osprey",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1550",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "otus",
+    "board": "msm8212",
+    "manufacturer": "motorola",
+    "model": "XT1511",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "otus",
+    "board": "msm8212",
+    "manufacturer": "motorola",
+    "model": "XT1511",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "otus",
+    "board": "msm8212",
+    "manufacturer": "motorola",
+    "model": "XT1511",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "paella",
+    "board": "msm8916t",
+    "manufacturer": "bq",
+    "model": "Aquaris X5",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "payton",
+    "board": "sdm630",
+    "manufacturer": "motorola",
+    "model": "'Moto X4'",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "peach",
+    "board": "msm8916",
+    "manufacturer": "ark",
+    "model": "Benefit A3",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "peregrine",
+    "board": "msm8926",
+    "manufacturer": "motorola",
+    "model": "XT1045",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "peregrine",
+    "board": "msm8926",
+    "manufacturer": "motorola",
+    "model": "XT1045",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "peregrine",
+    "board": "msm8926",
+    "manufacturer": "motorola",
+    "model": "XT1045",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "peregrine",
+    "board": "msm8926",
+    "manufacturer": "motorola",
+    "model": "XT1045",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "piccolo",
+    "board": "msm8939",
+    "manufacturer": "bq",
+    "model": "Aquaris M5",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "pioneer",
+    "board": "sdm630",
+    "manufacturer": "sony",
+    "model": "H3123",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "pioneer",
+    "board": "sdm630",
+    "manufacturer": "sony",
+    "model": "H3123",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "pioneer",
+    "board": "sdm630",
+    "manufacturer": "sony",
+    "model": "H3123",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "pioneer",
+    "board": "sdm630",
+    "manufacturer": "sony",
+    "model": "H3123",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "pioneer",
+    "board": "sdm630",
+    "manufacturer": "sony",
+    "model": "H3123",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "pme",
+    "board": "msm8996",
+    "manufacturer": "htc",
+    "model": "'10'",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "polaris",
+    "board": "sdm845",
+    "manufacturer": "xiaomi",
+    "model": "Mi MIX 2S",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "pollux",
+    "board": "apq8064",
+    "manufacturer": "sony",
+    "model": "Xperia Tablet Z LTE",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "pollux_windy",
+    "board": "apq8064",
+    "manufacturer": "sony",
+    "model": "Xperia Tablet Z Wi-Fi",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "r5",
+    "board": "msm8939",
+    "manufacturer": "oppo",
+    "model": "R8106s",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "r5",
+    "board": "msm8939",
+    "manufacturer": "oppo",
+    "model": "R8106s",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "r7plus",
+    "board": "msm8939",
+    "manufacturer": "oppo",
+    "model": "R7plusf",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "r7sf",
+    "board": "msm8939",
+    "manufacturer": "oppo",
+    "model": "R7sf",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "river",
+    "board": "msm8953",
+    "manufacturer": "motorola",
+    "model": "'Moto G7'",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "roth",
+    "board": "tegra",
+    "manufacturer": "nvidia",
+    "model": "Shield Portable",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "s2",
+    "board": "msm8976",
+    "manufacturer": "leeco",
+    "model": "X527",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "s2",
+    "board": "msm8976",
+    "manufacturer": "leeco",
+    "model": "X527",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "s2",
+    "board": "msm8976",
+    "manufacturer": "leeco",
+    "model": "X527",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "s2",
+    "board": "msm8976",
+    "manufacturer": "leeco",
+    "model": "X527",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "s3ve3gds",
+    "board": "msm8226",
+    "manufacturer": "samsung",
+    "model": "GT-I9300I",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "s3ve3gjv",
+    "board": "msm8226",
+    "manufacturer": "samsung",
+    "model": "GT-I9301Q",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "s3ve3gjv",
+    "board": "msm8226",
+    "manufacturer": "samsung",
+    "model": "GT-I9301Q",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "s3ve3gxx",
+    "board": "msm8226",
+    "manufacturer": "samsung",
+    "model": "GT-I9301Q",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "s3ve3gxx",
+    "board": "msm8226",
+    "manufacturer": "samsung",
+    "model": "GT-I9301Q",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "s5neolte",
+    "board": "exynos7580",
+    "manufacturer": "samsung",
+    "model": "SM-G903W",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "s5neolte",
+    "board": "exynos7580",
+    "manufacturer": "samsung",
+    "model": "SM-G903W",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "s5neolte",
+    "board": "exynos7580",
+    "manufacturer": "samsung",
+    "model": "SM-G903W",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "sagit",
+    "board": "msm8998",
+    "manufacturer": "xiaomi",
+    "model": "'Mi 6'",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "sailfish",
+    "board": "msm8996",
+    "manufacturer": "google",
+    "model": "Pixel",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "santoni",
+    "board": "msm8940",
+    "manufacturer": "xiaomi",
+    "model": "Redmi 4(X)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "scorpio",
+    "board": "msm8996",
+    "manufacturer": "xiaomi",
+    "model": "Mi Note 2",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "seed",
+    "board": "msm8916",
+    "manufacturer": "google",
+    "model": "Android One 2nd Gen",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "serrano3gxx",
+    "board": "msm8930ab",
+    "manufacturer": "samsung",
+    "model": "GT-I9190",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "serranodsdd",
+    "board": "msm8930ab",
+    "manufacturer": "samsung",
+    "model": "GT-I9192",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "serranoltexx",
+    "board": "msm8930ab",
+    "manufacturer": "samsung",
+    "model": "SHV-E370K",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "serranoltexx",
+    "board": "msm8930ab",
+    "manufacturer": "samsung",
+    "model": "SHV-E370K",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "serranoltexx",
+    "board": "msm8930ab",
+    "manufacturer": "samsung",
+    "model": "SHV-E370K",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "shamu",
+    "board": "apq8084",
+    "manufacturer": "moto",
+    "model": "Nexus 6",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "shieldtablet",
+    "board": "tegra",
+    "manufacturer": "nvidia",
+    "model": "Shield Tablet",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "spyder",
+    "board": "omap4430",
+    "manufacturer": "motorola",
+    "model": "XT912",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "star2lte",
+    "board": "exynos9810",
+    "manufacturer": "samsung",
+    "model": "SM-G965N",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "star2lte",
+    "board": "exynos9810",
+    "manufacturer": "samsung",
+    "model": "SM-G965N",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "star2lte",
+    "board": "exynos9810",
+    "manufacturer": "samsung",
+    "model": "SM-G965N",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "starlte",
+    "board": "exynos9810",
+    "manufacturer": "samsung",
+    "model": "SM-G960N",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "starlte",
+    "board": "exynos9810",
+    "manufacturer": "samsung",
+    "model": "SM-G960N",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "starlte",
+    "board": "exynos9810",
+    "manufacturer": "samsung",
+    "model": "SM-G960N",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "sumire",
+    "board": "msm8994",
+    "manufacturer": "sony",
+    "model": "E6633",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "sumire",
+    "board": "msm8994",
+    "manufacturer": "sony",
+    "model": "E6633",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "sumire",
+    "board": "msm8994",
+    "manufacturer": "sony",
+    "model": "E6633",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "surnia",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1527",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "surnia",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1527",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "surnia",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1527",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "surnia",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1527",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "surnia",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1527",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "surnia",
+    "board": "msm8916",
+    "manufacturer": "motorola",
+    "model": "XT1527",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "suzuran",
+    "board": "msm8994",
+    "manufacturer": "sony",
+    "model": "E5823",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "suzuran",
+    "board": "msm8994",
+    "manufacturer": "sony",
+    "model": "E5823",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "t0lte",
+    "board": "exynos4412",
+    "manufacturer": "samsung",
+    "model": "SHV-E250S/E250K/E250L",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "t0lte",
+    "board": "exynos4412",
+    "manufacturer": "samsung",
+    "model": "SHV-E250S/E250K/E250L",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "t0lte",
+    "board": "exynos4412",
+    "manufacturer": "samsung",
+    "model": "SHV-E250S/E250K/E250L",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "t0lte",
+    "board": "exynos4412",
+    "manufacturer": "samsung",
+    "model": "SHV-E250S/E250K/E250L",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "t6",
+    "board": "apq8064t",
+    "manufacturer": "htc",
+    "model": "One Max (GSM)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "t6vzw",
+    "board": "apq8064t",
+    "manufacturer": "htc",
+    "model": "One Max (Verizon)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "taoshan",
+    "board": "msm8230",
+    "manufacturer": "sony",
+    "model": "Xperia L",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "targa",
+    "board": "omap4430",
+    "manufacturer": "motorola",
+    "model": "XT875",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "tenshi",
+    "board": "msm8937",
+    "manufacturer": "bq",
+    "model": "Aquaris U Plus",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "thea",
+    "board": "msm8926",
+    "manufacturer": "motorola",
+    "model": "XT1079",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "thea",
+    "board": "msm8926",
+    "manufacturer": "motorola",
+    "model": "XT1079",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "thea",
+    "board": "msm8926",
+    "manufacturer": "motorola",
+    "model": "XT1079",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "thea",
+    "board": "msm8926",
+    "manufacturer": "motorola",
+    "model": "XT1079",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "tissot",
+    "board": "msm8953",
+    "manufacturer": "xiaomi",
+    "model": "Mi A1",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "titan",
+    "board": "msm8226",
+    "manufacturer": "motorola",
+    "model": "XT1069",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "titan",
+    "board": "msm8226",
+    "manufacturer": "motorola",
+    "model": "XT1069",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "titan",
+    "board": "msm8226",
+    "manufacturer": "motorola",
+    "model": "XT1069",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "titan",
+    "board": "msm8226",
+    "manufacturer": "motorola",
+    "model": "XT1069",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "toro",
+    "board": "omap4460",
+    "manufacturer": "samsung",
+    "model": "Galaxy Nexus LTE (Verizon)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "toroplus",
+    "board": "omap4460",
+    "manufacturer": "samsung",
+    "model": "Galaxy Nexus LTE (Sprint)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "tsubasa",
+    "board": "msm8960",
+    "manufacturer": "sony",
+    "model": "Xperia V",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "tulip",
+    "board": "msm8952",
+    "manufacturer": "zte",
+    "model": "'Axon 7 Mini'",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "umts_spyder",
+    "board": "omap4430",
+    "manufacturer": "motorola",
+    "model": "XT910",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "us996",
+    "board": "msm8996",
+    "manufacturer": "lge",
+    "model": "V20 (US Unlocked)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "us997",
+    "board": "msm8996",
+    "manufacturer": "lge",
+    "model": "G6 (US Unlocked)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "v1awifi",
+    "board": "exynos5420",
+    "manufacturer": "samsung",
+    "model": "SM-P900",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "v400",
+    "board": "msm8226",
+    "manufacturer": "lge",
+    "model": "G Pad 7.0 WiFi",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "v410",
+    "board": "msm8226",
+    "manufacturer": "lge",
+    "model": "G Pad 7.0 (LTE)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "v480",
+    "board": "msm8226",
+    "manufacturer": "lge",
+    "model": "G Pad 8.0 (Wi-Fi)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "v500",
+    "board": "apq8064t",
+    "manufacturer": "lge",
+    "model": "G Pad 8.3",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "v521",
+    "board": "msm8952",
+    "manufacturer": "lge",
+    "model": "G Pad X (T-Mobile)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "victara",
+    "board": "msm8974ac",
+    "manufacturer": "motorola",
+    "model": "XT1097",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "victara",
+    "board": "msm8974ac",
+    "manufacturer": "motorola",
+    "model": "XT1097",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "victara",
+    "board": "msm8974ac",
+    "manufacturer": "motorola",
+    "model": "XT1097",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "victara",
+    "board": "msm8974ac",
+    "manufacturer": "motorola",
+    "model": "XT1097",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "victara",
+    "board": "msm8974ac",
+    "manufacturer": "motorola",
+    "model": "XT1097",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "violet",
+    "board": "sm6150",
+    "manufacturer": "xiaomi",
+    "model": "Redmi Note 7 Pro",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "vs985",
+    "board": "msm8974ac",
+    "manufacturer": "lge",
+    "model": "G3 (Verizon)",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "vs995",
+    "board": "msm8996",
+    "manufacturer": "lge",
+    "model": "V20 (Verizon)",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "w5",
+    "board": "msm8210",
+    "manufacturer": "lge",
+    "model": "Optimus L70",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "w7",
+    "board": "msm8226",
+    "manufacturer": "lge",
+    "model": "D415",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "w7",
+    "board": "msm8226",
+    "manufacturer": "lge",
+    "model": "D415",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "w7",
+    "board": "msm8226",
+    "manufacturer": "lge",
+    "model": "D415",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "w7",
+    "board": "msm8226",
+    "manufacturer": "lge",
+    "model": "D415",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "w7",
+    "board": "msm8226",
+    "manufacturer": "lge",
+    "model": "D415",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "whyred",
+    "board": "sdm636",
+    "manufacturer": "xiaomi",
+    "model": "Redmi Note 5 Pro",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "wt88047",
+    "board": "msm8916",
+    "manufacturer": "wingtech",
+    "model": "Redmi 2",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "x2",
+    "board": "msm8996",
+    "manufacturer": "leeco",
+    "model": "LEX829",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "x2",
+    "board": "msm8996",
+    "manufacturer": "leeco",
+    "model": "LEX829",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "x2",
+    "board": "msm8996",
+    "manufacturer": "leeco",
+    "model": "LEX829",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "x2",
+    "board": "msm8996",
+    "manufacturer": "leeco",
+    "model": "LEX829",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "xt897",
+    "board": "msm8960",
+    "manufacturer": "motorola",
+    "model": "XT897",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "yuga",
+    "board": "apq8064",
+    "manufacturer": "sony",
+    "model": "Xperia Z",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "z2_plus",
+    "board": "msm8996",
+    "manufacturer": "zuk",
+    "model": "Z2 Plus",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "z3",
+    "board": "msm8974ac",
+    "manufacturer": "sony",
+    "model": "D6603",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "z3c",
+    "board": "msm8974ac",
+    "manufacturer": "sony",
+    "model": "D5833",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "z3c",
+    "board": "msm8974ac",
+    "manufacturer": "sony",
+    "model": "D5833",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "zangya",
+    "board": "sdm660",
+    "manufacturer": "bq",
+    "model": "Aquaris X2",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "zangyapro",
+    "board": "sdm660",
+    "manufacturer": "bq",
+    "model": "Aquaris X2 Pro",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "zenfone3",
+    "board": "msm8953",
+    "manufacturer": "asus",
+    "model": "ZE552KL",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "zenfone3",
+    "board": "msm8953",
+    "manufacturer": "asus",
+    "model": "ZE552KL",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "zerofltexx",
+    "board": "exynos7420",
+    "manufacturer": "samsung",
+    "model": "SM-G920F",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "zeroltexx",
+    "board": "exynos7420",
+    "manufacturer": "samsung",
+    "model": "SM-G925F",
+    "securityPath": "2020-03-05",
+    "buildId": "PPR1.180610.011",
+    "fingerprint": "vsmart/coconut_open/coconut:9/PPR1.180610.011/V530A_OPEN_U_M4_20200419:user/release-keys"
+  },
+  {
+    "code": "zl1",
+    "board": "msm8996",
+    "manufacturer": "leeco",
+    "model": "LEX727",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "zl1",
+    "board": "msm8996",
+    "manufacturer": "leeco",
+    "model": "LEX727",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  },
+  {
+    "code": "zl1",
+    "board": "msm8996",
+    "manufacturer": "leeco",
+    "model": "LEX727",
+    "securityPath": "2020-06-01",
+    "buildId": "QP1A.190711.020",
+    "fingerprint": "samsung/crownltexx/crownlte:10/QP1A.190711.020/N960FXXU5ETF5:user/release-keys"
+  }
+]

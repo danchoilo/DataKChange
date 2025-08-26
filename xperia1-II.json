@@ -1,0 +1,25 @@
+[
+  {
+    "board": "XQ-AT52",
+    "bootloader": "058001A001017802046423728",
+    "brand": "Sony",
+    "buildDate": "Thu Dec 17 02:33:47 JST 2020",
+    "buildDateUtc": "1608140027",
+    "buildDescription": "qssi-user 11 58.1.A.1.178 058001A001017802046423728 release-keys",
+    "buildDisplayId": "58.1.A.1.178",
+    "buildFlavor": "qssi-user",
+    "buildHost": "BuildHost",
+    "buildId": "58.1.A.1.178",
+    "buildIncremental": "058001A001017802046423728",
+    "code": "XQ-AT52",
+    "fingerprint": "Sony/XQ-AT52/XQ-AT52:11/58.1.A.1.178/058001A001017802046423728:user/release-keys",
+    "hardware": "XQ-AT52",
+    "manufacturer": "Sony",
+    "model": "XQ-AT52",
+    "platform": "XQ-AT52",
+    "product": "XQ-AT52",
+    "release": "11",
+    "sdk": "30",
+    "securityPath": "2020-12-01"
+  }
+]
